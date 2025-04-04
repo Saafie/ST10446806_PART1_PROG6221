@@ -21,7 +21,7 @@ jobs:
 
     - name: Restore dependencies
       run: dotnet restore
-      working-directory: ConsoleApp1
+      working-directory: ST10446806_Prog6221_Part1
 
     - name: Build
       run: dotnet build --configuration Release
