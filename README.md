@@ -92,6 +92,7 @@ The tips are also randomly picked from the list to give a range of responses whe
 It exits the console 
 
 Part 3
+
 part 1 and 2 was integrated into the code of part 3 making the whole thing a Wfp 
 Typing Next leads to the new details
 "- Add a task (e.g. 'add task: Buy groceries')\n" +
