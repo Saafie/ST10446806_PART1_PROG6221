@@ -90,6 +90,37 @@ The tips are also randomly picked from the list to give a range of responses whe
  
 3.7 Exit 
 It exits the console 
+
+Part 3
+part 1 and 2 was integrated into the code of part 3 making the whole thing a Wfp 
+Typing Next leads to the new details
+"- Add a task (e.g. 'add task: Buy groceries')\n" +
+                  "- Show tasks\n" +
+                  "- Update task (e.g. 'update task 2' or 'Fix title:New description')\n" +
+                  "- Complete task (e.g. 'complete task 1')\n" +
+                  "- Show reminders\n" +
+                  "- View activity log\n" +
+                  "- Start quiz\n" +
+                  "- Ask cybersecurity questions like 'What is phishing?' or 'Password tips'";
+Show tasks
+it allows you to view all the tasks that you added
+
+update task
+updates tasks that you already have you can choose from the numbers you have.
+
+Complete tasks
+allows a user to show they have completed a task
+
+show reminders
+shows all the reminders of tasks
+
+view log
+shows the log activity, if you added, updated, completed tasks and did a quiz
+
+Start quiz
+allows user to do a quiz.
+
+it also allows for a mispelling of certain words and it can be picked up and allows for custom messages from user.
  
 Recalling 
 Name is recalled asking the user their interest and when the system exits the console will display the users name.  
