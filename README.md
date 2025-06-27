@@ -1,4 +1,4 @@
-ST10446806_PROG6221_PART2
+ST10446806_PROG6221_PART3
 
 ON START: 
 
@@ -102,7 +102,8 @@ Typing Next leads to the new details
                   "- View activity log\n" +
                   "- Start quiz\n" +
                   "- Ask cybersecurity questions like 'What is phishing?' or 'Password tips'";
-Show tasks
+ 
+ Show tasks
 it allows you to view all the tasks that you added
 
 update task
